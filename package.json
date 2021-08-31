@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-scss",
+  "version": "1.1.1",
+  "description": "super Move",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avazbek9999/bootstrap-with-scss.git"
+  },
+  "keywords": [
+    "Adam"
+  ],
+  "author": "Avazbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avazbek9999/bootstrap-with-scss/issues"
+  },
+  "homepage": "https://github.com/avazbek9999/bootstrap-with-scss#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}

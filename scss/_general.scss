@@ -37,8 +37,25 @@ body {
     flex-grow: 1;
 }
 
-.container {
-    width: 1280px;
-    margin: 0 auto;
-    padding: 0 20px;
+// .container {
+//     width: 1280px;
+//     margin: 0 auto;
+//     padding: 0 20px;
+// }
+
+.carusel__img{
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+.left-box__img{
+    object-fit: cover;
+    width: 100%;
+    
+}
+
+.last-btn{ 
+        width: inherit;
+        margin: 0 auto;
+        text-align: center;    
 }

@@ -1,0 +1,18 @@
+// colr
+$primary: #0d324d;
+$carousel-control-color: #80ff72;
+$secondary: #6E6E6DFF;
+$warning: #FFE77AFF;
+
+//paddind
+$input-padding-y:10px;
+$input-padding-x: 20px;
+
+// border-radius
+$input-border-radius: 50px;
+$form-select-border-radius: 50px;
+
+// corusel
+$carousel-transition-duration: .1s;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'
